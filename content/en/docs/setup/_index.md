@@ -34,7 +34,7 @@ More simply, you can create a Kubernetes cluster in learning and production envi
 
 ## Learning environment
 
-If you're learning Kubernetes, use the Docker-based solutions: tools supported by the Kubernetes community, or tools in the ecosystem to set up a Kubernetes cluster on a local machine.
+If you're learning Kubernetes, use the Docker-based solutions: tools supported by  hello the Kubernetes community, or tools in the ecosystem to set up a Kubernetes cluster on a local machine.
 
 {{< table caption="Local machine solutions table that lists the tools supported by the community and the ecosystem to deploy Kubernetes." >}}
 
